@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @souravsharma2112
 - 👀 I’m interested in Web Development And Web Design
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on making a modern responsive website with the help of my skills.
+- 💞️ I’m looking to collaborate on making a modern responsive website.
 - 📫 You can reach me using this email id souravsharma3909@gmail.com
 
 <!---
